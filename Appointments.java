@@ -1,7 +1,7 @@
 /*
  * Practical Exercise 2 developed by Diego Rivera for Programming Fundamentals class.
  * 16/08/2016
- * Professor Rachel Jeikishore
+ * Professor ----------
  * This program generates an appointment list for a medical clinic by listing patient details according to
  * the age of the patient. Adults are 18 years of age or older and children are under 18. Currently the clinic
  * will generate a list for 3 patients in total.
@@ -24,7 +24,7 @@ public class Appointments {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //declare the object patient and call the method for input details three times
+        //declare the object patient and call the method for input details
         Patient patient = new Patient();
 
         int count = 0;
