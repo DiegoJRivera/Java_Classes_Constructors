@@ -1,7 +1,7 @@
 /*
  * Practical Exercise 2 developed by Diego Rivera for Programming Fundamentals class.
  * 16/08/2016
- * Professor Rachel Jeikishore
+ * Professor ------------
  * This class has fields for: suburb and post code only. This class should also
  * have 2 constructors. A default constructor with the default values of (Melbourne, 3000)
  * and a second constructor that gets values as parameters.
