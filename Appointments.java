@@ -1,7 +1,6 @@
 /*
  * Practical Exercise 2 developed by Diego Rivera for Programming Fundamentals class.
  * 16/08/2016
- * Professor ----------
  * This program generates an appointment list for a medical clinic by listing patient details according to
  * the age of the patient. Adults are 18 years of age or older and children are under 18. Currently the clinic
  * will generate a list for 3 patients in total.
