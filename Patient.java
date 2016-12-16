@@ -1,7 +1,6 @@
 /*
  * Practical Exercise 2 developed by Diego Rivera for Programming Fundamentals class.
  * 16/08/2016
- * Professor ----------
  * This class has the following properties: Medicare number, last name, age and an address.
  * The address field is an object supplied by the Address class. Also this class has the conditinal to decide the
  * old of the patients.
